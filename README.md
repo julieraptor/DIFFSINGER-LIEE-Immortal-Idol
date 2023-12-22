@@ -8,17 +8,17 @@ To download, navigate to **Releases** on the right-hand side and choose the file
 
 
 <p align="center">
-<img src ="https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png" height="600" />
+<img src ="[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)" height="600" />
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
 
 # 【SAMPLE】 
 
-https://user-images.githubusercontent.com/42128030/209543382-95c9008c-5742-4af0-9c63-60ed3545948d.mp4
-
-Release video: [https://www.youtube.com/watch?v=sLk9vJpRg4A](https://www.youtube.com/watch?v=sLk9vJpRg4A)
-
+https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/assets/42128030/989e3c12-d42a-4fc7-8a46-df36f349ac5c
+<p align="center">
+<i>Diffsinger LIEE : Immortal Idol 0.0.4 (3) PROOF OF CONCEPT</i>
+</p>
 
 # 【NOTES】 
 ### Character Details
