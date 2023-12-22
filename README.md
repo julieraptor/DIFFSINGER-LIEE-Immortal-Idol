@@ -43,17 +43,17 @@ Release video: [https://www.youtube.com/watch?v=sLk9vJpRg4A](https://www.youtube
 They were created as a way to preserve the voice and talents of the celebrity,  Velirio Eden, whose stage name was also "LIEE".
 
 ### Training Attributes
-Version: 0.0.4 (3) (Proof of Concept)
-Recording Languages: Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
-Dataset Length: ~50 min
-Vocal Modes: 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
+**Version:** 0.0.4 (3) (Proof of Concept)
+**Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
+**Dataset Length:** ~50 min
+**Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
 **Note that the proof of concept distribution only has 5 vocal modes: Standard, Bone, Heart, Lung, and Teeth**
 
-Version: 0.0.5 (Proof of Concept 2) - **IN PROGRESS**
-Recording Languages: Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish, Cebuano, French
-Dataset Length: TBD
-Vocal Modes: 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
+**Version:** 0.0.5 (Proof of Concept 2) - **IN PROGRESS**
+**Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish, Cebuano, French
+**Dataset Length:** TBD
+**Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
 
 # 【TERMS OF USE】
