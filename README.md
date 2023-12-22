@@ -8,7 +8,7 @@ To download, navigate to **Releases** on the right-hand side and choose the file
 
 
 <p align="center">
-<img src ="[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)" height="600" />
+<img src ="[[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)" height="600" />
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
