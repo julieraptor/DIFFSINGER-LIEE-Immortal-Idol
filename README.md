@@ -59,6 +59,11 @@ They were created as a way to preserve the voice and talents of the celebrity,  
 - **Dataset Length:** TBD
 - **Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
+### Special Thanks
+
+- Alice, Haru0l, PixPrucer, Airi, UtaUtaUtau, Mlo7, tigermeat (database preparation)
+- verrine, MintyAlieny, DH Giang, Anthemios (character lore)
+
 
 # 【TERMS OF USE】
 
