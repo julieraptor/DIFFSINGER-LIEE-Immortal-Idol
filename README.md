@@ -8,7 +8,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 
 <p align="center">
-<img src ="[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png?raw=true)" height="600" />
+<img src ="https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png?raw=true" height="600" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
@@ -18,7 +18,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/assets/42128030/989e3c12-d42a-4fc7-8a46-df36f349ac5c
 <p align="center">
-<i>Diffsinger LIEE : Immortal Idol 0.0.4 (3) PROOF OF CONCEPT</i>
+<i>Diffsinger LIEE : Immortal Idol 0.0.4 (3) PROOF OF CONCEPT 1 (November 2023)</i>
 </p>
 
 # 【NOTES】 
@@ -43,7 +43,7 @@ https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/assets/42128030/989
 
 They were created as a way to preserve the voice and talents of the celebrity,  Velirio Eden, whose stage name was also "LIEE".
 
-### Training Attributes: 0.0.4 (3) (Proof of Concept 1)
+### Training Attributes: 0.0.4 (3) (Proof of Concept 1) (November 2023)
 
 - **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
 - **Labels:** 7931
