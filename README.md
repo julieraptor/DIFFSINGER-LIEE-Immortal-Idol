@@ -4,11 +4,12 @@
 Thank you for using Diffsinger LIEE : Immortal Idol! Please be sure to tag me in anything you make with this database.
 If you used any part of this database for training, **please indicate that you used Diffsinger LIEE : Immortal Idol** wherever you post samples of your database.
 <p>
-To download, navigate to **Releases** on the right-hand side and choose the file you wish to download.
+To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
 
 <p align="center">
-<img src ="[[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png)" height="600" />
+<img src ="[https://github.com/julieraptor/LIEE-DIFF-SVC-AI/blob/main/Art/LIEE_DIFF-SVC.png](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png?raw=true)" height="600" />
+ 
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
@@ -42,23 +43,21 @@ https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/assets/42128030/989
 
 They were created as a way to preserve the voice and talents of the celebrity,  Velirio Eden, whose stage name was also "LIEE".
 
-### Training Attributes: 0.0.4 (3) (Proof of Concept)
+### Training Attributes: 0.0.4 (3) (Proof of Concept 1)
 
-**Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
+- **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
+- **Labels:** 7931
+- **Dataset Length:** ~50 min
+- **Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
-**Dataset Length:** ~50 min
-
-**Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
-
-**Note that the proof of concept distribution only has 5 vocal modes: Standard, Bone, Heart, Lung, and Teeth**
+```Note that the Proof of Concept 1 distribution only has 5 vocal modes: Standard, Bone, Heart, Lung, and Teeth```
 
 ### Training Attributes: 0.0.5 (Proof of Concept 2) - **IN PROGRESS**
 
-**Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish, Cebuano, French
-
-**Dataset Length:** TBD
-
-**Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
+- **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish, Cebuano, French
+- **Labels:** TBD
+- **Dataset Length:** TBD
+- **Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
 
 # 【TERMS OF USE】
