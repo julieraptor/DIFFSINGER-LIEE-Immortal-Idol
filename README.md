@@ -95,6 +95,12 @@ Derivatives and heavily-inspired characters are prohibited. (Inspired designs mu
 ### Commercial Use
 Contact the author for individual approval to use this database commercially.
 
+The training data used for the database cannot be sold or used for commercial purposes.
+
+You cannot sell a database that has used Diffsinger LIEE : Immortal Idol as a multispeaker source.
+
+Contact the author about selling a database that has used LIEE's training data for inferencing using an SVC. (This does not include free multi-user vocoders and datasets where the author has consented to contribute data)
+
 ### Editing
 You are free to edit the audio files of the inferences from this database.
 
@@ -104,13 +110,15 @@ You cannot use this database in any other singing synthesizer. Please contact th
 
 ### Redistribution
 
-Do not redistribute any part of this database. Link to this page to show where to download LIEE DIFF-SVC AI.
+Do not redistribute any part of this database. Link to this page to show where to download Diffsinger LIEE : Immortal Idol.
 
 You are free to share rendered singing vocals created with this database.
 
 You are allowed to use this model for pretraining.
 
-If you used this model for pre-training, **please indicate that you used LIEE DIFF-SVC AI for pre-training** wherever you post samples of your database.
+If you used this model for pre-training, **please indicate that you used Diffsinger LIEE : Immortal Idol for pre-training** wherever you post samples of your database.
+
+You can use Diffsinger LIEE : Immortal Idol as a multispeaker source for a Diffsinger database.
 
 Do not release a model for pre-training other models if it has already been pre-trained with LIEE.
 
