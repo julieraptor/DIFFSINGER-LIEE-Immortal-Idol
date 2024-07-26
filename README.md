@@ -8,7 +8,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 
 <p align="center">
-<img src ="https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/blob/main/art/LIEE_REY_Card.png?raw=true" height="600" />
+<img src ="https://cdn.discordapp.com/attachments/1106361007888154674/1265185265841082428/image.png?ex=66a53459&is=66a3e2d9&hm=a3c11dca27bb1b4e35354e914998abe914cc6d121ecdd299c3c23264e65d8a92&" height="600" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
