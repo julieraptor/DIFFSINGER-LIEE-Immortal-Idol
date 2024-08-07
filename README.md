@@ -11,8 +11,7 @@ If you used any part of this database for training, **please indicate that you u
 To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
 
-<p align="center">
-<img src ="https://github.com/user-attachments/assets/f465488d-617f-4537-bd77-ee146b877b48" height="600" />
+<p align="center"><img src="https://github.com/user-attachments/assets/ed42a37c-d48e-4e9c-adb0-c4cd47cc2847" height="600"/>
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
