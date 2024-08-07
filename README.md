@@ -33,27 +33,24 @@ https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
 
-# 【NOTES】 
-### Character Details
-**Full name:** Diffsinger LIEE : Immortal Idol
+## 【 CHARACTER INFORMATION 】
 
-**Age:** Immortal (appears 28, eternally)
+- **Character name:** LIEE (Veli Eden/Velirio Eden Nasaranta)
+- **Character Title:** Immortal Idol 
+- **Other names:** LIEE REY, Veli, Lili, Rio
+- **Age:** 22+, 25 (at death), 27 (in the events of artificial eden)
+- **Gender:** Nonbinary, Genderfluid (publicly, Female)
+- **Pronouns:** they/them, she/her, he/him (in order of preference)
+- **Ethnicity:** Filipino
+- **Height:** 6'2 (1'88m)
+- **Hair color:** Dark blue, Rainbow audio-spectrum highlights (can change color depending on mood)
+- **Eye color:** Blue with orange/yellow accent, light yellow pupil (changes shape depending on mood)
+- **Special Thanks:** Lucius, MintyAlieny, Ann
 
-**Gender:** Genderfluid
+>LIEE is a singer from the future where idols can use cybernetic augmentations and the help of artificial intelligence to keep making music beyond human limits.<p>After an incident that landed them in the hospital, the death of LIEE was kept a secret. 
+An android that supposedly retains the memories and personality of LIEE, codenamed REY, was created to fool their fans into believing they are still alive... including REY themselves.
 
-**Pronouns:** Any pronouns
-
-**Ethnicity:** Filipino
-
-**Height:** 5'10 (1'77m)
-
-**Hair color:** Asymmetrical, deep blue with rainbow highlights, cyan "peekaboo" hair
-
-**Eye color:** Blue with orange accents
-
-**Diffsinger LIEE : Immortal Idol** is supposedly a human's memories and personality stored in a robot body. After an incident landed them in the hospital, the death of LIEE was kept a secret. Codenamed REY, they were created to fool their fans into believing they are still alive, including REY themselves. 
-
-They were created as a way to preserve the voice and talents of the celebrity,  Velirio Eden, whose stage name was also "LIEE".
+Character art references can be found in the `art` folder.
 
 ### Training Attributes: 0.0.4 (3) (Proof of Concept 1) (November 2023)
 
