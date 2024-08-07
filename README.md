@@ -1,14 +1,18 @@
 # DIFFSINGER-LIEE-Immortal-Idol
 <i> Diffsinger database and training material by julieraptor</i>
 
-Thank you for using Diffsinger LIEE : Immortal Idol! Please be sure to tag me in anything you make with this database.
+*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
+<br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
+
+Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
+
 If you used any part of this database for training, **please indicate that you used Diffsinger LIEE : Immortal Idol** wherever you post samples of your database.
 <p>
 To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
 
 <p align="center">
-<img src ="[https://cdn.discordapp.com/attachments/1106361007888154674/1265185265841082428/image.png?ex=66a53459&is=66a3e2d9&hm=a3c11dca27bb1b4e35354e914998abe914cc6d121ecdd299c3c23264e65d8a92&](https://cdn.discordapp.com/attachments/1106361007888154674/1265185265841082428/image.png)" height="600" />
+<img src ="https://github.com/user-attachments/assets/f465488d-617f-4537-bd77-ee146b877b48" height="600" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
@@ -16,10 +20,19 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 # 【SAMPLE】 
 
-https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/assets/42128030/989e3c12-d42a-4fc7-8a46-df36f349ac5c
+
+
+https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 <p align="center">
-<i>Diffsinger LIEE : Immortal Idol 0.0.4 (3) PROOF OF CONCEPT 1 (November 2023)</i>
+<i>Diffsinger LIEE : Immortal Idol 'Lilia' (August 2024)</i>
 </p>
+
+## 【 PUBLISHING GUIDELINES 】
+
+*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
+<br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
+
+Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
 
 # 【NOTES】 
 ### Character Details
