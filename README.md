@@ -1,4 +1,4 @@
-# DIFFSINGER LIEE : Immortal Idol 'Lilia'
+# DIFFSINGER LIEE : Immortal Idol 'Lilia' (LIEE REY)
 <i> Diffsinger database and training material by julieraptor</i>
 
 *If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
