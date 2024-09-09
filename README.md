@@ -33,6 +33,10 @@ https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
 
+## 【 USAGE GUIDE 】
+
+A usage guide can be found in the wiki, located here: [[link]](https://github.com/julieraptor/DIFFSINGER-LIEE-Immortal-Idol/wiki).
+
 ## 【 VOICE MODEL INFORMATION 】
 
 - **Voice Model Name:** LIEE : Immortal Idol 'Lilia'
