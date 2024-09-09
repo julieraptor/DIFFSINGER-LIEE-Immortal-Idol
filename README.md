@@ -18,6 +18,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
 
+
 # 【SAMPLE】 
 
 https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
@@ -43,6 +44,9 @@ Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortal
 
 **\*Additional art and designs along with credits are located in the "art" folder.**
 
+### LIEE : Immortal Idol 'Lilia' is currently being privately distributed for testing purposes. 
+Contact julieraptor if you would like to test!
+
 *Unlike LIEE : Immortal Idol's previous release (Proof of Concept 1), LIEE : Immortal Idol 'Lilia' does not have Vocal Modes. 
 <br>Instead, please use the TENSION capabilities to achieve expressiveness.*
 
@@ -64,7 +68,6 @@ Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortal
 An android that supposedly retains the memories and personality of LIEE, codenamed REY, was created to fool their fans into believing they are still alive... including REY themselves.
 
 Character art references can be found in the `art` folder.
-
 
 ## 【 FEATURES 】
 ### LIEE : Immortal Idol 'Lilia'
