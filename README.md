@@ -1,4 +1,4 @@
-# DIFFSINGER-LIEE-Immortal-Idol
+# DIFFSINGER LIEE : Immortal Idol 'Lilia'
 <i> Diffsinger database and training material by julieraptor</i>
 
 *If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
@@ -11,15 +11,14 @@ If you used any part of this database for training, **please indicate that you u
 To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/ed42a37c-d48e-4e9c-adb0-c4cd47cc2847" height="600"/>
+<p align="center">
+<img src ="https://github.com/user-attachments/assets/f465488d-617f-4537-bd77-ee146b877b48" height="600" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
 
 # 【SAMPLE】 
-
-
 
 https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 <p align="center">
@@ -32,6 +31,20 @@ https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 <br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
+
+## 【 VOICE MODEL INFORMATION 】
+
+- **Voice Model Name:** LIEE : Immortal Idol 'Lilia'
+- **Voice provider:** julieraptor
+- **Illustration/Character Design:** julieraptor\*
+- **Version:** DiffSinger v2.3 MM
+- **Developer:** PixPrucer
+- **Special Thanks:** _lin_lin, Alice, UtaUtaUtau, haru0l
+
+**\*Additional art and designs along with credits are located in the "art" folder.**
+
+*Unlike LIEE : Immortal Idol's previous release (Proof of Concept 1), LIEE : Immortal Idol 'Lilia' does not have Vocal Modes. 
+<br>Instead, please use the TENSION capabilities to achieve expressiveness.*
 
 ## 【 CHARACTER INFORMATION 】
 
@@ -52,7 +65,36 @@ An android that supposedly retains the memories and personality of LIEE, codenam
 
 Character art references can be found in the `art` folder.
 
-### Training Attributes: 0.0.4 (3) (Proof of Concept 1) (November 2023)
+
+## 【 FEATURES 】
+### LIEE : Immortal Idol 'Lilia'
+- **Supported range:** D2 ~ D6
+- **Supported languages:** Technically, any language is capable of being supported. See the chart below to see what 
+- **Optimal range:** C3 ~ G5 (alto)
+- **Optimal languages/Languages recorded in:** Japanese, English, Korean, Latin, Tagalog, Cebuano, Spanish, Chinese
+- `LIEE : Immortal Idol 'Lilia'` supports autopitch tuning.
+
+| Supported Languages via Phonemizer | Planned Future Support |
+| --- | --- |
+| English | Cantonese Chinese |
+| Japanese | German |
+| Polish | Thai |
+| Mandarin Chinese | Italian |
+| Spanish | More TBA |
+| French | - |
+| Tagalog* | - |
+| Portuguese (EU/BR) | -
+
+Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani Tran (Vietnamese), Melody (Chinese), naff_san (Korean), MintyAlient (PT-EU), padrauwn, HAI-D (PT-BR)
+
+**Supported parameters**
+>`TENC (Tension) | VELC (Pronunciation speed) | GENC (Throat length)`
+
+**Supported phonemizers**
+>`DIFFS | DIFFS EN | DIFFS PL | DIFFS KR | DIFFS JA | DIFFS VI | DIFFS ES | DIFFS PT | DIFFS FIL | DIFFS ZH`
+- You're free to modify the "dsdict" files under "dsdur" folder to your liking.
+
+### Proof of Concept 1 - 0.0.4 (3) (November 2023)
 
 - **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
 - **Labels:** 7931
@@ -61,18 +103,18 @@ Character art references can be found in the `art` folder.
 
 ```Note that the Proof of Concept 1 distribution only has 5 vocal modes: Standard, Bone, Heart, Lung, and Teeth```
 
-### Training Attributes: 0.0.5 (Proof of Concept 2) - **IN PROGRESS**
-
-- **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish, Cebuano, French
-- **Labels:** TBD
-- **Dataset Length:** TBD
-- **Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
-
-### Special Thanks
-
 - Alice, Haru0l, PixPrucer, Airi, UtaUtaUtau, Mlo7, tigermeat (database preparation)
-- verrine, MintyAlieny, DH Giang, Anthemios (character lore)
 
+## 【 DEVELOPER'S NOTES 】
+### LIEE : Immortal Idol 'Lilia'
+- Variance trained using Reflow for 500k steps
+- Acoustics trained using DDPM for 800k steps
+
+- The model is very sensitive to pitch changes. To omit unusual behavior, ensure the tuning doesn't include many rapid or aggressive bends, especially on vowel beginnings (consonants are an exception here, those can be tuned steeply).
+- **`[hh]`** phoneme also works as an endbreath/breathe out sound.
+- **`[m]`** phoneme is also programmed to be a humming sound when used in isolation. It can be used in succession with [hh] to produce staccato: **``[m] [hh m]``**
+- Although trained in specific contexts, phonemes can be freely mixed around to imitate other languages (by typing them space-separated in square brackets, ex. **`[t0 a dx a m]`**.
+- The DIFFS EN phonemizer doesn't support **`[dx]`** or **`[ax]`** phonemes. Those have to be overridden by hand.
 
 # 【 TERMS OF USE 】
 
@@ -118,7 +160,7 @@ Character art references can be found in the `art` folder.
 - You must not use audio outputs to create a new database or singing synthesizer.
 - You must ask permission to use the model's output audio as an input for further language coverage. *EXAMPLE: Please ask for permission to use LIEE's output audio to use for Singing Voice Conversion (SVC) which will be used for extending LIEE's or other voice synthesis database's language capabilities.*
 - You cannot use this database in any other singing synthesizer. Please contact the author if you would like to port this database to another singing synthesizer program.
-- Usage of the model's output audio for other Singing Voice algorithm or software, signal converter, automated voice service, sample pack or similar, is prohibited. This does not include using the model's output audio as a driving / reference input audio for inferencing SVC algorithms. *You cannot use LIEE's output audio, edited or otherwise, to create an SVC version of LIEE or other voice.*
+- Usage of the model's output audio for other Singing Voice algorithm or software, signal converter, automated voice service, sample pack or similar, is prohibited. This does not include using the model's output audio as a driving / reference input audio for inferencing SVC algorithms.
 
 ### Redistribution
 
