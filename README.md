@@ -1,7 +1,7 @@
 # DIFFSINGER LIEE : Immortal Idol 'Lilia' (LIEE REY)
 <i> Diffsinger database and training material by julieraptor</i>
 
-*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
+*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
 <br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 
 ## 【 PUBLISHING GUIDELINES 】
 
-*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE REY`**. 
+*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
 <br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
