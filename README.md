@@ -194,8 +194,6 @@ Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani 
 # 【CONTACT INFORMATION】
 **Voice Provider**
 - **Site:** [website](https://julieraptor.carrd.co)
-- **Twitter:** [@Chuliechu](https://twitter.com/ChulieChu)
-- **SoundCloud:** [Julieraptor](https://soundcloud.com/julieraptor)
 - **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
 - - **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
 
