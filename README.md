@@ -42,7 +42,7 @@ A usage guide can be found in the wiki, located here: [[link]](https://github.co
 - **Voice Model Name:** LIEE : Immortal Idol 'Lilia'
 - **Voice provider:** julieraptor
 - **Illustration/Character Design:** julieraptor\*
-- **Version:** DiffSinger v2.3 MM
+- **Version:** DiffSinger v2.6 MM
 - **Developer:** PixPrucer
 - **Special Thanks:** _lin_lin, Alice, UtaUtaUtau, haru0l
 
@@ -59,7 +59,7 @@ Contact julieraptor if you would like to test!
 - **Character name:** LIEE (Veli Eden/Velirio Eden Nasaranta)
 - **Character Title:** Immortal Idol 
 - **Other names:** LIEE REY, Veli, Lili, Rio
-- **Age:** 22+, 25 (at death), 27 (in the events of artificial eden)
+- **Age:** 22, permanently
 - **Gender:** Nonbinary, Genderfluid (publicly, Female)
 - **Pronouns:** they/them, she/her, he/him (in order of preference)
 - **Ethnicity:** Filipino
