@@ -91,6 +91,7 @@ Character art references can be found in the `art` folder.
 | French | - |
 | Tagalog* | - |
 | Portuguese (EU/BR) | -
+| Korean | -
 
 Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani Tran (Vietnamese), Melody (Chinese), naff_san (Korean), MintyAlient (PT-EU), padrauwn, HAI-D (PT-BR)
 
