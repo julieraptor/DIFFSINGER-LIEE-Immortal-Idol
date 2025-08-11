@@ -48,9 +48,6 @@ A usage guide can be found in the wiki, located here: [[link]](https://github.co
 
 **\*Additional art and designs along with credits are located in the "art" folder.**
 
-### LIEE : Immortal Idol 'Lilia' is currently being privately distributed for testing purposes. 
-Contact julieraptor if you would like to test!
-
 *Unlike LIEE : Immortal Idol's previous release (Proof of Concept 1), LIEE : Immortal Idol 'Lilia' does not have Vocal Modes. 
 <br>Instead, please use the TENSION capabilities to achieve expressiveness.*
 
