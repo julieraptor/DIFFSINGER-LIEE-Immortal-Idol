@@ -21,9 +21,9 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 
 # 【SAMPLE】 
 
-https://github.com/user-attachments/assets/b9298096-8685-4e27-89cb-955412107908
 <p align="center">
-<i>Diffsinger LIEE : Immortal Idol 'Lilia' (August 2024)</i>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/_afW-RWnpvA?si=gx9J4AZo1UGmZtWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<i>Diffsinger LIEE : Immortal Idol 'Lilia' (MM 2.8, August 2025)</i>
 </p>
 
 ## 【 PUBLISHING GUIDELINES 】
