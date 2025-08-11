@@ -22,7 +22,7 @@ To download, navigate to <b>Releases</b> on the right-hand side and choose the f
 # 【SAMPLE】 
 
 <p align="center">
-[https://www.youtube.com/embed/_afW-RWnpvA?si=gx9J4AZo1UGmZtWO](https://www.youtube.com/watch?v=_afW-RWnpvA)
+Listen here: [https://www.youtube.com/watch?v=_afW-RWnpvA](https://www.youtube.com/watch?v=_afW-RWnpvA)
  <p></p>
 <i>Diffsinger LIEE : Immortal Idol 'Lilia' (MM 2.8, August 2025)</i>
 </p>
