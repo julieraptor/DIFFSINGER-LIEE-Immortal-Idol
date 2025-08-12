@@ -123,63 +123,7 @@ Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani 
 
 # 【 TERMS OF USE 】
 
-### Notes
-- "Voicebank" states the entire content of this folder/repository. 
-- "Model(s)" stands for the file(s) containing exported neural network weights in ONNX format.
-
-### Attribution
-- When publishing work using this database, you are required to state the name of this database.
-- It is necessary to state the name of this database's author.
-- When attributing the name or author of this database, you must write the names exactly as written above. 
-- You cannot call the database by any other name, nor can you attribute the database to any other author.
-
-### Usage Content
-
- - You are free to create sexual content. 
- - You are free to create violent content. 
- - Do not create political content.
- - Do not create religious content.
-
-**The following types of content are unconditionally prohibited:**
- - Criminal or illegal content 
- - Explicit underage sexual content 
- - Bigotry and hateful content
- 
-**YOU MUST NOT USE THIS VOICE MODEL TO IMPERSONATE THE VOICE PROVIDER AND/OR CAUSE HARM TO THEM OR OTHERS IN ANY WAY.**
-
-### Character and Artwork
-- "Character" stands for the visual character design and standing illustration(s) accompanying the voicebank's files.
-- Published work using the database may or may not include visual depictions of the database character.
-- Artwork does not need to depict the database character. This database can be used in conjunction with artwork of other characters.
-- Existing artwork of the database character cannot be used without prior permission from the individual artists.
-- Derivatives and heavily-inspired characters are prohibited. (Inspired designs must be credited to julieraptor.)
-
-### Commercial Use
-- Contact the author for individual approval to use this database commercially.
-- The training data used for the database cannot be sold or used for commercial purposes.
-- You cannot sell a database that has used Diffsinger LIEE : Immortal Idol as a multispeaker source.
-- Contact the author about selling a database that has used LIEE's training data for inferencing using an SVC. (This does not include free multi-user vocoders and datasets where the author has consented to contribute data)
-
-### Editing
-- You are free to edit the audio files output from this database.
-- You must not use audio outputs to create a new database or singing synthesizer.
-- You must ask permission to use the model's output audio as an input for further language coverage. *EXAMPLE: Please ask for permission to use LIEE's output audio to use for Singing Voice Conversion (SVC) which will be used for extending LIEE's or other voice synthesis database's language capabilities.*
-- You cannot use this database in any other singing synthesizer. Please contact the author if you would like to port this database to another singing synthesizer program.
-- Usage of the model's output audio for other Singing Voice algorithm or software, signal converter, automated voice service, sample pack or similar, is prohibited. This does not include using the model's output audio as a driving / reference input audio for inferencing SVC algorithms.
-
-### Redistribution
-
-- Do not redistribute any part of this database. Link to this page to show where to download Diffsinger LIEE : Immortal Idol.
-- You are free to share rendered singing vocals created with this database.
-- Copy, recycle, or redistribution of any parts of this voicebank in any form is prohibited.
-- You are allowed to use **LIEE : Immortal Idol Proof of Concept** models for pretraining.
-- If you used **LIEE : Immortal Idol Proof of Concept** models for pre-training, **please indicate that you used Diffsinger LIEE : Immortal Idol for pre-training** wherever you post samples of your database.
-- You can use **LIEE : Immortal Idol Proof of Concept** as a multispeaker source for a Diffsinger database.
-- Do not release a model for pre-training other models if it has already been pre-trained with LIEE.
-- Do not release a model pre-trained with LIEE that is intended to recreate the voice of a celebrity, paid vocal synthesis voice, copyrighted fictional character, or otherwise public figure.
-(Showcasing inferenced examples is OK.) Be sure to indicate you pre-trained with LIEE, and link to this GitHub page.
-- Absolutely DO NOT sell models when you used LIEE for pre-training.
-- If sharing a database of an existing vocal synthesis character that is distributed for free (e.g. Kasane Teto of UTAU, etc), please indicate that you used LIEE for pre-train in the credits, and link to this GitHub page.
+[Please review the full Terms of Use here.](https://docs.google.com/document/d/1t13WKc7VA2Q3G_MppznbAwhl3vLIL2MNPyjVN3kWDDg/edit?usp=sharing)
 
 ### Disclaimer
 - julieraptor holds no responsibility to any incidents, damage, or loss by the user from downloading or using the database or character.
