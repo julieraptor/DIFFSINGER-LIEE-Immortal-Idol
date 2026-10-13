@@ -1,8 +1,11 @@
-# DIFFSINGER LIEE : Immortal Idol 'Lilia' (LIEE REY)
+# DIFFSINGER LIEE : Immortal Idol
 <i> Diffsinger database and training material by julieraptor</i>
 
-*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
-<br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
+*If you post anything please tag as **`#理詠LIEE`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
+<br>**OPTIONAL:** Tag **`@LIEE_Official`** in your posts.*
+
+**Original music tag:** #理詠Song </p>
+**Fanart tag:** #理詠Art
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
 
@@ -28,8 +31,8 @@ Listen here: https://www.youtube.com/watch?v=_afW-RWnpvA<br>
 
 ## 【 PUBLISHING GUIDELINES 】
 
-*If you post anything please tag as **`#LIEEREY`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
-<br>**OPTIONAL:** Tag **`@ChulieChu`** in your posts.*
+*If you post anything please tag as **`#理詠LIEE`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
+<br>**OPTIONAL:** Tag **`@LIEE_Official`** in your posts.*
 
 Please the default image **`LIEE_immortalIdol_Default.png`** OR **`LIEE_immortalIdol_Alt01.png`** located in the `art/fullbody` folder. 
 
@@ -39,17 +42,7 @@ A usage guide can be found in the wiki, located here: [[link]](https://github.co
 
 ## 【 VOICE MODEL INFORMATION 】
 
-- **Voice Model Name:** LIEE : Immortal Idol 'Lilia'
-- **Voice provider:** julieraptor
-- **Illustration/Character Design:** julieraptor\*
-- **Version:** DiffSinger v2.6 MM
-- **Developer:** PixPrucer
-- **Special Thanks:** _lin_lin, Alice, UtaUtaUtau, haru0l
-
-**\*Additional art and designs along with credits are located in the "art" folder.**
-
-*Unlike LIEE : Immortal Idol's previous release (Proof of Concept 1), LIEE : Immortal Idol 'Lilia' does not have Vocal Modes. 
-<br>Instead, please use the TENSION capabilities to achieve expressiveness.*
+To be announced.
 
 ## 【 CHARACTER INFORMATION 】
 
@@ -63,17 +56,34 @@ A usage guide can be found in the wiki, located here: [[link]](https://github.co
 - **Height:** 6'2 (1'88m)
 - **Hair color:** Dark blue, Rainbow audio-spectrum highlights (can change color depending on mood)
 - **Eye color:** Blue with orange/yellow accent, light yellow pupil (changes shape depending on mood)
-- **Special Thanks:** Lucius, MintyAlieny, Ann
 
->LIEE is a singer from the future where idols can use cybernetic augmentations and the help of artificial intelligence to keep making music beyond human limits.<p>After an incident that landed them in the hospital, the death of LIEE was kept a secret. 
-An android that supposedly retains the memories and personality of LIEE, codenamed REY, was created to fool their fans into believing they are still alive... including REY themselves.
+>A robot who contains the memories of a futuristic pop idol.
+
+Because of their new body, LIEE tends to feel disconnected from human experiences and feelings and desires to learn them again through singing.
 
 Character art references can be found in the `art` folder.
 
 ## 【 FEATURES 】
+### LIEE : Immortal Idol 'Lilikha'
+
+To be announced.
+
 ### LIEE : Immortal Idol 'Lilia'
+
+- **Voice Model Name:** LIEE : Immortal Idol 'Lilia' - JUBILIEE 2025
+- **Voice provider:** julieraptor
+- **Illustration/Character Design:** julieraptor\*
+- **Version:** DiffSinger v2.8 MM
+- **Developer:** PixPrucer
+- **Special Thanks:** _lin_lin, Alice, UtaUtaUtau, haru0l
+
+**\*Additional art and designs along with credits are located in the "art" folder.**
+
+*Unlike LIEE : Immortal Idol's previous release (Proof of Concept 1), LIEE : Immortal Idol 'Lilia' does not have Vocal Modes. 
+<br>Instead, please use the TENSION capabilities to achieve expressiveness.*
+
 - **Supported range:** D2 ~ D6
-- **Supported languages:** Technically, any language is capable of being supported. See the chart below to see what 
+- **Supported languages:** Technically, any language is capable of being supported. See the chart below.
 - **Optimal range:** C3 ~ G5 (alto)
 - **Optimal languages/Languages recorded in:** Japanese, English, Korean, Latin, Tagalog, Cebuano, Spanish, Chinese
 - `LIEE : Immortal Idol 'Lilia'` supports autopitch tuning.
@@ -99,7 +109,19 @@ Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani 
 >`DIFFS | DIFFS EN | DIFFS PL | DIFFS KR | DIFFS JA | DIFFS VI | DIFFS ES | DIFFS PT | DIFFS FIL | DIFFS ZH`
 - You're free to modify the "dsdict" files under "dsdur" folder to your liking.
 
+**Contact the Developer**
+ - **Twitter:** [@PixPrucer](https://twitter.com/PixPrucer)
+ - **Discord:** PixPrucer
+ - **Email:** [pixproduceer@gmail.com](mailto:pixproduceer@gmail.com)
+
 ### Proof of Concept 1 - 0.0.4 (3) (November 2023)
+
+- **Voice Model Name:** LIEE : Immortal Idol
+- **Voice provider:** julieraptor
+- **Illustration/Character Design:** julieraptor\*
+- **Version:** Proof of Concept 1
+- **Developer:** julieraptor
+- **Special Thanks:** Alice, Haru0l, PixPrucer, Airi, UtaUtaUtau, Mlo7, tigermeat (database preparation)
 
 - **Recording Languages:** Japanese, English, Korean, Chinese, Tagalog, Latin, Spanish
 - **Labels:** 7931
@@ -107,8 +129,6 @@ Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani 
 - **Vocal Modes:** 7 (Standard, Bone, Breath, Heart, Mouth, Lung, Teeth)
 
 ```Note that the Proof of Concept 1 distribution only has 5 vocal modes: Standard, Bone, Heart, Lung, and Teeth```
-
-- Alice, Haru0l, PixPrucer, Airi, UtaUtaUtau, Mlo7, tigermeat (database preparation)
 
 ## 【 DEVELOPER'S NOTES 】
 ### LIEE : Immortal Idol 'Lilia'
@@ -138,8 +158,3 @@ Special thanks for the assistance with multi-language. PixPrucer (Polish), Jani 
 - **Site:** [website](https://julieraptor.carrd.co)
 - **YouTube:** [chulie_chu](https://www.youtube.com/channel/UCaJ0Q7aEmNdZAME8zvxQICg)
 - - **Email:** [raptorjulie@gmail.com](mailto:raptorjulie@gmail.com)
-
-**Developer**
- - **Twitter:** [@PixPrucer](https://twitter.com/PixPrucer)
- - **Discord:** PixPrucer
- - **Email:** [pixproduceer@gmail.com](mailto:pixproduceer@gmail.com)
