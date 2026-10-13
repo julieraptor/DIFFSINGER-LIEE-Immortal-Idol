@@ -57,16 +57,45 @@ To be announced.
 - **Hair color:** Dark blue, Rainbow audio-spectrum highlights (can change color depending on mood)
 - **Eye color:** Blue with orange/yellow accent, light yellow pupil (changes shape depending on mood)
 
->A robot who contains the memories of a futuristic pop idol.
-
-Because of their new body, LIEE tends to feel disconnected from human experiences and feelings and desires to learn them again through singing.
+>A robot who contains the memories of a futuristic pop idol. <br>Because of their new body, LIEE tends to feel disconnected from human experiences and feelings and desires to learn them again through singing.
 
 Character art references can be found in the `art` folder.
 
 ## 【 FEATURES 】
 ### LIEE : Immortal Idol 'Lilikha'
 
-To be announced.
+- **Voice Model Name:** LIEE : Immortal Idol 'Lilikha'
+- **Voice provider:** Julilyn Ng
+- **Illustration/Character Design:** julieraptor\*
+- **Version:** 2026
+- **Developer:** julieraptor
+
+- **Supported range:** TBD
+- **Supported languages:** Technically, any language is capable of being supported. See the chart below.
+- **Optimal range:** TBD
+- **Optimal languages/Languages recorded in:** Japanese, English, Tagalog, Spanish
+- `LIEE : Immortal Idol 'Lilikha'` supports autopitch tuning.
+
+| Supported Languages via Phonemizer | Planned Future Support |
+| --- | --- |
+| English | Cantonese Chinese |
+| Japanese | German |
+| Mandarin Chinese | Italian|
+| Spanish | More TBA |
+| French | - |
+| Tagalog | - |
+| Portuguese (EU/BR) | -
+| Korean | -
+| Thai | -
+
+**Supported parameters**
+>`TENC (Tension) | VELC (Pronunciation speed) | GENC (Throat length) | VOIC (Voicing) | BREC (Breathiness)`
+
+**Supported phonemizers**
+>`DIFFS | DIFFS EN | DIFFS PL | DIFFS KR | DIFFS JA | DIFFS VI | DIFFS ES | DIFFS PT | DIFFS FIL | DIFFS ZH`
+- You're free to modify the "dsdict" files under "dsdur" folder to your liking.
+
+More information to be announced.
 
 ### LIEE : Immortal Idol 'Lilia'
 
