@@ -15,11 +15,16 @@
 ## Sample
 
 <p align="center">
-https://github.com/user-attachments/assets/ff869617-39a5-4621-9829-a50859b5e439
-<br><i>Diffsinger LIEE (理詠) : Immortal Idol 'Lilikha' ver. 20261015 (October 2026)</i>
+Diffsinger LIEE (理詠) : Immortal Idol 'Lilikha' ver. 20261015 (October 2026)<br>
+[Sample](https://github.com/user-attachments/assets/ff869617-39a5-4621-9829-a50859b5e439)
+</p>
 <p align="center">
-https://github.com/user-attachments/assets/ff869617-39a5-4621-9829-a50859b5e439
-<br><i>Diffsinger LIEE : Immortal Idol 'Lilia' ver. JUBILIEE 2025 (August 2025)</i>
+Diffsinger LIEE : Immortal Idol 'Lilia' ver. JUBILIEE 2025 (August 2025)<br>
+[Sample](https://github.com/user-attachments/assets/707e21fb-2d07-4ff6-beca-55e250448b6d)
+</p>
+<p align="center">
+Diffsinger LIEE : Immortal Idol ver. PROOF OF CONCEPT 1 (December 2023)<br>
+[Sample]()
 </p>
 
 ## Installation Instructions
