@@ -1,0 +1,152 @@
+format: openutau_expression_graph
+version: 1
+graph:
+  id: diffsinger_graph
+  name: DIFFSINGER graph
+  renderer: DIFFSINGER
+  nodes:
+  - {id: 1, type: pitch_input, source: pitch_bend, x: -213, y: 157}
+  - {id: 2, type: masked_curve_input, abbr: rpit, x: -30, y: 125}
+  - {id: 4, type: add, x: 205, y: 130}
+  - {id: 5, type: masked_curve_input, abbr: pito, x: 315, y: 178}
+  - {id: 16, type: masked_curve_input, abbr: pito, x: -37, y: 259}
+  - {id: 25, type: curve_output, abbr: dyn, x: 429, y: -144}
+  - {id: 27, type: curve_input, abbr: pitd, x: -271, y: -128}
+  - {id: 32, type: masked_curve_input, abbr: pito, x: -424, y: -770}
+  - {id: 38, type: curve_input, abbr: pitd, x: -417, y: -640}
+  - {id: 42, type: mix, factor: 1, x: -15, y: -875}
+  - {id: 43, type: curve_output, abbr: genc, x: 721, y: -802}
+  - {id: 45, type: note_position, x: -373, y: -500}
+  - {id: 46, type: multiply, x: -111, y: -626}
+  - {id: 57, type: map_range, in_min: 25, in_max: 0, out_min: 75, out_max: 85, clamp: true, x: 524, y: -595}
+  - {id: 59, type: map_range, in_min: 200, in_max: 0, out_min: 0, out_max: 50, clamp: true, x: 58, y: -153}
+  - {id: 65, type: curve_output, abbr: tenc, x: 294, y: 844}
+  - {id: 73, type: masked_curve_input, abbr: pito, fallback: 75, x: 201, y: -486}
+  - {id: 74, type: multiply, b: 2, a: 8, x: 489, y: -329}
+  - {id: 75, type: note_position, x: 312, y: -244}
+  - {id: 76, type: multiply, x: 608, y: -378}
+  - {id: 82, type: pitch_input, source: notes, x: 80, y: -572}
+  - {id: 83, type: multiply, a: 0.2, x: 273, y: -611}
+  - {id: 87, type: pitch_output, x: 593, y: 62}
+  - {id: 91, type: multiply, b: 2, x: 264, y: -108}
+  - {id: 99, type: note_position, x: 496, y: 775}
+  - {id: 108, type: curve_output, abbr: brec, x: 1149, y: 999}
+  - {id: 109, type: divide, b: 5, x: 755, y: 871}
+  - {id: 110, type: subtract, x: 597, y: 919}
+  - {id: 111, type: curve_input, abbr: pitd, x: 367, y: 1004}
+  - {id: 112, type: map_range, in_min: -10, in_max: 50, out_min: 20, out_max: -50, clamp: false, x: 955, y: 934}
+  - {id: 113, type: map_range, in_min: 5, in_max: -30, out_min: 10, out_max: -30, clamp: true, x: 330, y: -909}
+  - {id: 114, type: divide, b: 8, x: 182, y: -769}
+  - {id: 115, type: curve_input, abbr: pitd, x: -281, y: 585}
+  - {id: 116, type: add, x: -29, y: 564}
+  - {id: 117, type: curve_input, abbr: dyn, x: -279, y: 686}
+  - {id: 118, type: map_range, in_min: 10, in_max: 30, out_min: 2, out_max: 5, clamp: false, x: -33, y: 766}
+  - {id: 122, type: masked_curve_input, abbr: pito, fallback: -5, x: -157, y: 968}
+  - {id: 123, type: subtract, x: 183, y: 904}
+  - {id: 124, type: add, b: 0, x: 514, y: -789}
+  - {id: 125, type: curve_output, abbr: voic, x: 699, y: -579}
+  links:
+  - {from: 1, to: 2, to_port: fallback}
+  - {from: 2, from_port: value, to: 4, to_port: a}
+  - {from: 4, to: 5, to_port: fallback}
+  - {from: 16, from_port: value, to: 4, to_port: b}
+  - {from: 45, to: 46, to_port: b}
+  - {from: 27, to: 59, to_port: value}
+  - {from: 75, to: 74, to_port: b}
+  - {from: 5, from_port: value, to: 87, to_port: value}
+  - {from: 59, to: 91, to_port: a}
+  - {from: 91, to: 25, to_port: value}
+  - {from: 110, to: 109, to_port: a}
+  - {from: 99, to: 110, to_port: a}
+  - {from: 111, to: 110, to_port: b}
+  - {from: 109, to: 112, to_port: value}
+  - {from: 112, to: 108, to_port: value}
+  - {from: 32, from_port: value, to: 42, to_port: a}
+  - {from: 46, to: 42, to_port: b}
+  - {from: 38, to: 46, to_port: a}
+  - {from: 42, to: 114, to_port: a}
+  - {from: 114, to: 113, to_port: value}
+  - {from: 115, to: 116, to_port: a}
+  - {from: 117, to: 116, to_port: b}
+  - {from: 116, to: 118, to_port: value}
+  - {from: 118, to: 123, to_port: a}
+  - {from: 122, from_port: value, to: 123, to_port: b}
+  - {from: 82, to: 83, to_port: b}
+  - {from: 113, to: 124, to_port: a}
+  - {from: 124, to: 43, to_port: value}
+  - {from: 123, to: 65, to_port: value}
+  - {from: 73, from_port: value, to: 57, to_port: value}
+  - {from: 57, to: 125, to_port: value}
+expressions:
+- name: rendered pitch (masked curve)
+  abbr: rpit
+  type: MaskedCurve
+  min: 2400
+  max: 10800
+  default_value: 2400
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: pitch override (masked curve)
+  abbr: pito
+  type: MaskedCurve
+  min: 2400
+  max: 10800
+  default_value: 2400
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: dynamics (curve)
+  abbr: dyn
+  type: Curve
+  min: -240
+  max: 120
+  default_value: 0
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: pitch deviation (curve)
+  abbr: pitd
+  type: Curve
+  min: -1200
+  max: 1200
+  default_value: 0
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: gender (curve)
+  abbr: genc
+  type: Curve
+  min: -100
+  max: 100
+  default_value: 0
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: tension (curve)
+  abbr: tenc
+  type: Curve
+  min: -100
+  max: 100
+  default_value: 0
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: breathiness (curve)
+  abbr: brec
+  type: Curve
+  min: -100
+  max: 100
+  default_value: 0
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
+- name: voicing (curve)
+  abbr: voic
+  type: Curve
+  min: 0
+  max: 100
+  default_value: 100
+  is_flag: false
+  flag: ""
+  skip_output_if_default: false
