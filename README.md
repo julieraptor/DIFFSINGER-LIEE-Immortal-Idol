@@ -22,10 +22,6 @@ Diffsinger LIEE (理詠) : Immortal Idol 'Lilikha' ver. 20261015 (October 2026)<
 Diffsinger LIEE : Immortal Idol 'Lilia' ver. JUBILIEE 2025 (August 2025)<br>
 [Sample](https://github.com/user-attachments/assets/707e21fb-2d07-4ff6-beca-55e250448b6d)
 </p>
-<p align="center">
-Diffsinger LIEE : Immortal Idol ver. PROOF OF CONCEPT 1 (December 2023)<br>
-[Sample]()
-</p>
 
 ## Installation Instructions
 To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
@@ -46,6 +42,7 @@ A robot who contains the memories of a futuristic pop idol.<p>Because of their n
 | Title | Information |
 | --- | --- |
 |**Name** | LIEE (理詠)
+|**Full Name** | Velirio Nasaranta
 |**Age** | 21
 |**Birthday**| February 14
 |**Height**| 6'2 ft (188cm)|
@@ -54,7 +51,7 @@ A robot who contains the memories of a futuristic pop idol.<p>Because of their n
 Character art references can be found in the `art` folder.
 
 ## Features
-### LIEE (理詠)
+### LIEE (理詠) - Test Distribution available on request
 
 | Title | Information |
 | --- | --- |
