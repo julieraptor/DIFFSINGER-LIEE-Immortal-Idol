@@ -78,29 +78,41 @@ Character art references can be found in the `art` folder.
 **Supported phonemizers**
 >`DIFFS | DIFFS EN | DIFFS PL | DIFFS KR | DIFFS JA | DIFFS VI | DIFFS ES | DIFFS PT | DIFFS FIL | DIFFS ZH`
 
-You're free to modify the "dsdict" files under "dsdur" folder to your liking.
-
 ## Supported Languages
 
-| Supported Languages via Phonemizer | Planned Future Support |
-| --- | --- |
-| English | Cantonese Chinese |
-| Japanese | German |
-| Mandarin Chinese | Italian |
-| Spanish | More TBA |
-| French | - |
-| Tagalog | - |
-| Portuguese (EU/BR) | -
-| Korean | -
-| Thai | -
+| Supported Languages via Phonemizer |
+| --- | 
+| Chinese - Cantonese|
+| Chinese - Mandarin | 
+| Chinese - Taiwanese |
+| English | 
+| German | 
+| Greek | 
+| Finnish| 
+| Japanese |
+| Korean |
+| Filipino/Tagalog |
+| French |
+| Polish |
+| Portuguese (EU/BR) | 
+| Russian| 
+| Thai |
+| Vietnamese|
 
 ## Developer Notes 
 LIEE (理詠) was trained with supplemental data from the following:
 | Language | Owner | Notes |
 | --- | --- | --- |
 | Japanese (JA) | [YAKUSA 八草](https://rurakuya.studio.site/) | Explicit permission to use for LIEE |
-| Thai (TH) | [PrintMOV](https://thaids.printmov.com/additional-license.html) | Explicit permission to use for LIEE |
+| Japanese (JA)  | [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus) | CC-BY-4.0 Share-Alike |
+| Japanese (JA)  | [ Rei Yumesaki - つくよみちゃん](https://shikuon.weebly.com/research_tyc.html) | CC-BY-4.0 Share-Alike |
+| Brazilian Portuguese (PT-BR) | [Padrauwn](https://teambrapa.com.br/) | Explicit permission to use for LIEE |
 | English (EN) | [LotteV (AIdol Public Dataset)](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) | CC-BY-4.0 Share-Alike |
+| English (EN) | Dalton | CC-BY-4.0 Share-Alike |
+| Greek (EL) | OSGD | CC-BY-4.0 Share-Alike |
+| English (EN) | [Evillivy (Trei Public Dataset)](https://evillivyutau.wixsite.com/trei) | Explicit permission to use for LIEE |
+| Mandarin Chinese, Cantonese Chinese, Taiwanese Chinese | [AVC-001, ACV-003](https://github.com/Archivoice/ACV-001) | CC-BY-4.0 Share-Alike |
+| Thai (TH) | [PrintMOV](https://thaids.printmov.com/additional-license.html) | Explicit permission to use for LIEE |
 
 Thank you for your contributions to the future of vocal synthesis.
 
