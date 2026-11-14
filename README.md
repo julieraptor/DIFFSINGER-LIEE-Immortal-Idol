@@ -85,13 +85,6 @@ Character art references can be found in the `art` folder.
 
 ## Supported Languages
 
-- If a phonemizer is not listed, it is not merged into OpenUTAU as of the writing of this document.<br>
-- Sources listed "Internal" were recorded by the voice provider.<br>
-- Fluency listed as "Learned" indicate that the data was not recorded by a native speaker.<br>
-- Fluency listed as "Allophones" indicate that pronunciation is supported through phonemes in other languages.<br>
-- ※ indicates that support is currently in progress.<br>
-- † indicates that support is being considered and assessed if it can be supported with the currently available data.
-
 | Language | Phonemizer | Source | Fluency |
 | --- | --- | --- | --- | 
 | English | DIFFS EN<br>DIFFS EN+ | Internal | Native  |
@@ -120,6 +113,13 @@ Character art references can be found in the `art` folder.
 | Khmer† | - | - | Allophone | 
 | Swahili† | - | - | Allophone | 
 | Urdu† | - | - | Allophone | 
+
+- If a phonemizer is not listed, it is not merged into OpenUTAU as of the writing of this document.<br>
+- Sources listed "Internal" were recorded by the voice provider.<br>
+- Fluency listed as "Learned" indicate that the data was not recorded by a native speaker.<br>
+- Fluency listed as "Allophones" indicate that pronunciation is supported through phonemes in other languages.<br>
+- ※ indicates that support is currently in progress.<br>
+- † indicates that support is being considered and assessed if it can be supported with the currently available data.
 
 ## Developer Notes 
 LIEE (理詠) was trained with supplemental data from the following:
