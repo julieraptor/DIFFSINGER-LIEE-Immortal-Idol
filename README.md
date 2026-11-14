@@ -115,7 +115,10 @@ Character art references can be found in the `art` folder.
 | Polish※ | DIFFS PL | - | Allophone | 
 | Arabic† | - | - | Allophone | 
 | Bengali† | - | - | Allophone | 
+| Hausa† | - | - | Allophone | 
+| Hindi† | - | - | Allophone | 
 | Khmer† | - | - | Allophone | 
+| Swahili† | - | - | Allophone | 
 | Urdu† | - | - | Allophone | 
 
 ## Developer Notes 
