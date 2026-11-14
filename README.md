@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/248b06b2-9720-4b75-a09b-85c36d4e3a0e" height="600" />
+<img height="270" alt="Lilikha_Header" src="https://github.com/user-attachments/assets/3bb132cd-5e86-44c0-add1-087306b92dc8" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
@@ -75,44 +75,48 @@ Character art references can be found in the `art` folder.
 **Supported parameters**
 >`TENC (Tension) | VELC (Pronunciation speed) | GENC (Throat length) | VOIC (Voicing) | BREC (Breathiness)`
 
-**Supported phonemizers**
->`DIFFS | DIFFS EN | DIFFS PL | DIFFS KR | DIFFS JA | DIFFS VI | DIFFS ES | DIFFS PT | DIFFS FIL | DIFFS ZH`
-
 ## Supported Languages
-
-| Supported Languages via Phonemizer |
-| --- | 
-| Chinese - Cantonese|
-| Chinese - Mandarin | 
-| Chinese - Taiwanese |
-| English | 
-| German | 
-| Greek | 
-| Finnish| 
-| Japanese |
-| Korean |
-| Filipino/Tagalog |
-| French |
-| Polish |
-| Portuguese (EU/BR) | 
-| Russian| 
-| Thai |
-| Vietnamese|
+| Language | Phonemizer | Source | Fluency |
+| --- | --- | --- |  --- | 
+| English | DIFFS EN<br>DIFFS EN+ | Internal | Native  |
+| Filipino/Tagalog | DIFFS FIL (julieraptor)<br>DIFFS FIL Rule-based | Internal | Native |
+| Spanish | DIFFS ES | Internal | Learned |
+| Japanese | DIFFS<br>DIFFS EN<br>DIFFS JA | Internal | Learned |
+| Cantonese | DIFFS ZH-YUE | External | Native | 
+| Dutch | | External | Native | 
+| Finnish | | External | Native | 
+| Greek | | External | Native | 
+| Korean | DIFFS KO (Cardroid6) | External | Native | 
+| Mandarin Chinese | DIFFS ZH | External | Native | 
+| Portuguese (EU/BR) | DIFFS PT<br>DIFFS BRAPA | External | Native | 
+| Russian | DIFFS RU | External | Native | 
+| Taiwanese Hokkien | | External | Native | 
+| Thai | DIFFS TH | External | Native | 
+| Vietnamese| DIFFS VI (tigermeat)<br>DIFFS VI (Lotte) | External | Native | 
+| French | DIFFS FR<br>DIFFS FR (Millefeuille) | | Allophone | 
+| German | DIFFS DE<br>DIFFS DE MARZ | | Allophone | 
+| Indonesian | DIFFS ID | | Allophone | 
+| Polish | DIFFS PL | | Allophone | 
 
 ## Developer Notes 
 LIEE (理詠) was trained with supplemental data from the following:
 | Language | Owner | Notes |
 | --- | --- | --- |
-| Japanese (JA) | [YAKUSA 八草](https://rurakuya.studio.site/) | Explicit permission to use for LIEE |
-| Japanese (JA)  | [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus) | CC-BY-4.0 Share-Alike |
-| Japanese (JA)  | [ Rei Yumesaki - つくよみちゃん](https://shikuon.weebly.com/research_tyc.html) | CC-BY-4.0 Share-Alike |
 | Brazilian Portuguese (PT-BR) | [Padrauwn](https://teambrapa.com.br/) | Explicit permission to use for LIEE |
+| Cantonese Chinese (ZH-YUE) | [Archivoice (ACV-001, ACV-003)](https://github.com/Archivoice/ACV-001) | CC-BY-4.0 Share-Alike |
 | English (EN) | [LotteV (AIdol Public Dataset)](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) | CC-BY-4.0 Share-Alike |
-| English (EN) | Dalton | CC-BY-4.0 Share-Alike |
-| Greek (EL) | OSGD | CC-BY-4.0 Share-Alike |
-| English (EN) | [Evillivy (Trei Public Dataset)](https://evillivyutau.wixsite.com/trei) | Explicit permission to use for LIEE |
-| Mandarin Chinese, Cantonese Chinese, Taiwanese Chinese | [AVC-001, ACV-003](https://github.com/Archivoice/ACV-001) | CC-BY-4.0 Share-Alike |
+| | [Evillivy (Trei Public Dataset)](https://evillivyutau.wixsite.com/trei) | Explicit permission to use for LIEE |
+| | Dalton | CC-BY-4.0 Share-Alike |
+| Greek (EL) | [OSGD](https://github.com/A-MAIN/Open-Greek-SinginDataset) |  Explicit permission to use for LIEE |
+| Italian (IT) | [gianloop](https://github.com/gnloop/Tiny-Italian-Spanish-Dataset) | Explicit permission to use for LIEE |
+| Japanese (JA) | [YAKUSA 八草](https://rurakuya.studio.site/)| Explicit permission to use for LIEE |
+| | [PJS](https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus) | CC-BY-4.0 Share-Alike |
+| | [ Rei Yumesaki - つくよみちゃん](https://shikuon.weebly.com/research_tyc.html) | CC-BY-4.0 Share-Alike |
+| Mandarin Chinese (ZH)| [Archivoice (ACV-001, ACV-003)](https://github.com/Archivoice/ACV-001) | CC-BY-4.0 Share-Alike |
+| Spanish (ES) | [gianloop](https://github.com/gnloop/Tiny-Italian-Spanish-Dataset) | Explicit permission to use for LIEE |
+| Taiwanese Hokkien (ZH-TW) | [Archivoice (ACV-001, ACV-003)](https://github.com/Archivoice/ACV-001) | CC-BY-4.0 Share-Alike |
 | Thai (TH) | [PrintMOV](https://thaids.printmov.com/additional-license.html) | Explicit permission to use for LIEE |
+| Vietnamese (VI) | [aple (ViCa)](https://github.com/apleGitHub/ViCa) | CC-BY-4.0 |
 
 Thank you for your contributions to the future of vocal synthesis.
 
