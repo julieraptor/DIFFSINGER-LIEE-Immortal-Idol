@@ -67,36 +67,56 @@ Character art references can be found in the `art` folder.
 | --- | --- |
 |**Recording Languages**| Japanese, English, Tagalog, Spanish|
 |**Dataset Length**| 2+ hours |
-|**Optimal range**| C3 ~ G5 (alto)
-|**Supported range**| B2 ~ D6
-|**Supported languages**| Technically, any language is capable of being supported. See the chart below.
+|**Optimal range**| C3 ~ G5 (alto) |
+|**Supported range**| B2 ~ D6 |
+|**# of Supported languages※**| 19+ |
 |**Autopitch Enabled?**| Yes |
 
+※ See below for the list of supported languages.
+
 **Supported parameters**
->`TENC (Tension) | VELC (Pronunciation speed) | GENC (Throat length) | VOIC (Voicing) | BREC (Breathiness)`
+| Parameter | Description |
+| --- | --- |
+| TENC | Tension | 
+| VELC  | Pronunciation speed |
+| GENC  | Throat length |
+| VOIC  | Voicing |
+| BREC  | Breathiness |
 
 ## Supported Languages
+
+If a phonemizer is not listed, it is not merged into OpenUTAU as of the writing of this document.
+Sources listed "Internal" were recorded by the voice provider.
+Fluency listed as "Learned" indicate that the data was not recorded by a native speaker.
+Fluency listed as "Allophones" indicate that pronunciation is supported through phonemes in other languages.
+※ indicates that support is currently in progress.
+† indicates that support is being considered and assessed if it can be supported with the currently available data.
+
 | Language | Phonemizer | Source | Fluency |
-| --- | --- | --- |  --- | 
+| --- | --- | --- | --- | 
 | English | DIFFS EN<br>DIFFS EN+ | Internal | Native  |
 | Filipino/Tagalog | DIFFS FIL (julieraptor)<br>DIFFS FIL Rule-based | Internal | Native |
 | Spanish | DIFFS ES | Internal | Learned |
 | Japanese | DIFFS<br>DIFFS EN<br>DIFFS JA | Internal | Learned |
 | Cantonese | DIFFS ZH-YUE | External | Native | 
-| Dutch | | External | Native | 
-| Finnish | | External | Native | 
-| Greek | | External | Native | 
 | Korean | DIFFS KO (Cardroid6) | External | Native | 
 | Mandarin Chinese | DIFFS ZH | External | Native | 
 | Portuguese (EU/BR) | DIFFS PT<br>DIFFS BRAPA | External | Native | 
 | Russian | DIFFS RU | External | Native | 
-| Taiwanese Hokkien | | External | Native | 
 | Thai | DIFFS TH | External | Native | 
-| Vietnamese| DIFFS VI (tigermeat)<br>DIFFS VI (Lotte) | External | Native | 
+| Vietnamese | DIFFS VI (tigermeat)<br>DIFFS VI (Lotte) | External | Native | 
+| Dutch | - | External | Native | 
+| Finnish |- | External | Native | 
+| Greek | - | External | Native | 
+| Taiwanese Hokkien | - | External | Native | 
 | French | DIFFS FR<br>DIFFS FR (Millefeuille) | | Allophone | 
-| German | DIFFS DE<br>DIFFS DE MARZ | | Allophone | 
-| Indonesian | DIFFS ID | | Allophone | 
-| Polish | DIFFS PL | | Allophone | 
+| German※ | DIFFS DE<br>DIFFS DE MARZ | | Allophone | 
+| Indonesian※ | DIFFS ID | - | Allophone | 
+| Polish※ | DIFFS PL | - | Allophone | 
+| Arabic† | - | - | Allophone | 
+| Bengali† | - | - | Allophone | 
+| Khmer† | - | - | Allophone | 
+| Urdu† | - | - | Allophone | 
 
 ## Developer Notes 
 LIEE (理詠) was trained with supplemental data from the following:
