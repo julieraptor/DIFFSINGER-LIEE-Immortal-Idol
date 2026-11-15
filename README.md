@@ -1,16 +1,22 @@
 # DIFFSINGER LIEE : Immortal Idol
 <i> Diffsinger database and training material by julieraptor</i>
 
->**Original music tag:** #理詠Song <br>
->**Fanart tag:** #理詠Art
-
-
 <p align="center">
 <img height="270" alt="Lilikha_Header" src="https://github.com/user-attachments/assets/3bb132cd-5e86-44c0-add1-087306b92dc8" />
  
 <br>
 <i>Diffsinger LIEE : Immortal Idol Official Art by julieraptor</i>
 </p>
+
+>**IPA / X-SAMPA:** lje<br>
+>**liée**. french. participle. feminine singular of lié. _"to bind; to connect"_<br>
+<p>
+
+A passionate singer with an alluring voice. With a husky, masculine lower range and gentle feminine upper range, LIEE's versatile voice can perform in many genres, from energetic pop, mellow ballads, and even traditional folk music.<p>
+Utilize LIEE's singing style, which replicates the original singer's through ethically-sourced AI deep learning technologies, or customize it to fit your vision.<p>
+
+**Recommended vocal range:** C3 to G5 (alto/contralto)<br>
+**Recommended tempo:** 60 - 170 BPM
 
 ## Sample
 
@@ -26,10 +32,13 @@ Diffsinger LIEE : Immortal Idol 'Lilia' ver. JUBILIEE 2025 (August 2025)<br>
 ## Installation Instructions
 To download, navigate to <b>Releases</b> on the right-hand side and choose the file you wish to download.
 
-## Publishing Guidelines
+## Social Media Publishing Guidelines
 
-*If you post anything please tag as **`#理詠LIEE`** and refer to the VB as **`LIEE : Immortal Idol`** or **`LIEE`**. 
-<br>**OPTIONAL:** Tag **`@LIEE_Official`** in your posts.*
+**General tag:** #理詠LIEE <br>
+**Original music tag:** #理詠Song <br>
+**Fanart tag:** #理詠Art
+
+**OPTIONAL:** Tag **`@LIEE_Official`** in your posts.*
 
 ## Usage Guide
 
@@ -51,7 +60,7 @@ A robot who contains the memories of a futuristic pop idol.<p>Because of their n
 Character art references can be found in the `art` folder.
 
 ## Features
-### LIEE (理詠) - Test Distribution available on request
+### LIEE (理詠) 'Lilikha' - Test Distribution available on request
 
 | Title | Information |
 | --- | --- |
